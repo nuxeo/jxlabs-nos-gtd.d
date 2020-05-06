@@ -19,3 +19,5 @@ it's now available for free even for private repositories -- [[http://arquillian
 [2020-04-30 Thu 09:29]
 * define gtd tags as local variable
 [2020-04-30 Thu 09:34]
+* refactor the bootstrap as an jenkins-x extension
+[2020-05-03 Sun 08:20]
